@@ -64,8 +64,8 @@
   <a href="https://instagram.com/akanksha.xd" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram"/>
   </a>
-  <a href="https://discord.com/users/daylixght" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-daylixght-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35" alt="Discord"/>
+  <a href="https://discord.com/users/90s.neo" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-90s.neo-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35" alt="Discord"/>
   </a>
 </div>
 
