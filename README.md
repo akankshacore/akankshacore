@@ -46,8 +46,8 @@
 ### 📊 GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akankshacore&show_icons=true&count_private=true&theme=dracula&v=1" height="180" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akankshacore&layout=compact&theme=dracula&v=1" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akankshacore&show_icons=true&count_private=true&theme=dracula&cache_seconds=300" height="180" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akankshacore&layout=compact&theme=dracula&cache_seconds=300" height="180" alt="Top Languages" />
 </div>
 
 <hr>
