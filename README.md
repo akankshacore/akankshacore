@@ -58,7 +58,7 @@
   <a href="mailto:akankshaprashar5244@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/akanksha-489929302" target="_blank">
+  <a href="www.linkedin.com/in/akanksha127" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn"/>
   </a>
   <a href="https://discord.com/users/90s.neo" target="_blank">
