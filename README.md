@@ -16,10 +16,10 @@
 
 - 👩‍💻 **Tech Journey:**  
   Proficient in Python, SQL, C, and C++ with hands-on experience in ML-based applications and Flutter development.  
-  I've worked with libraries & tools like YOLO, TensorFlow, NumPy, Pandas, Scikit-learn, Matplotlib, Flutter, and Dart.
+  Worked with YOLO, TensorFlow, NumPy, Pandas, Scikit-learn, Matplotlib, Flutter, and Dart.
 
 - 📈 **Current Focus:**  
-  Expanding my knowledge in Statistics, Data Analysis, Generative AI (NLP models), and advanced Flutter concepts.
+  Statistics, Data Analysis, Generative AI (NLP models), and advanced Flutter concepts.
 
 <hr>
 
@@ -28,21 +28,21 @@
 <div align="center">
 
 <!-- Languages -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="C" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="C++" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="45" alt="Dart" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="45"/>
 
 <br/><br/>
 
 <!-- Frameworks & Tools -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="45" alt="TensorFlow" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" alt="NumPy" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="Pandas" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="45" alt="Flutter" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="45"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="45"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
 
 </div>
 
@@ -53,11 +53,11 @@
 <div align="center">
 
 <img 
-src="https://github-readme-stats.vercel.app/api?username=akankshacore&show_icons=true&theme=dracula" 
+src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=akankshacore&show_icons=true&theme=dracula" 
 height="180"/>
 
 <img 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=akankshacore&layout=compact&theme=dracula" 
+src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=akankshacore&layout=compact&theme=dracula" 
 height="180"/>
 
 </div>
@@ -68,15 +68,15 @@ height="180"/>
 
 <div align="center">
 
-<a href="mailto:akankshaprashar5244@gmail.com" target="_blank">
+<a href="mailto:akankshaprashar5244@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
 </a>
 
-<a href="https://www.linkedin.com/in/akanksha127" target="_blank">
+<a href="https://www.linkedin.com/in/akanksha127">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
 </a>
 
-<a href="https://discord.com/users/90s.neo" target="_blank">
+<a href="https://discord.com/users/90s.neo">
 <img src="https://img.shields.io/badge/Discord-90s.neo-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35"/>
 </a>
 
@@ -85,5 +85,5 @@ height="180"/>
 <hr>
 
 <div align="center">
-  <img src="https://i.imgflip.com/65efzo.gif" height="140" alt="cool animation" />
+  <img src="https://i.imgflip.com/65efzo.gif" height="140"/>
 </div>
