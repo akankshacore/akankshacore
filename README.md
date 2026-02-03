@@ -1,7 +1,7 @@
 <h1 align="center">✨ Hey, I'm Akanksha! ✨</h1>
 
 <p align="center">
-  <em>Data Scientist in the making | AI & ML Enthusiast | Flutter Developer | Passionate about solving real-world problems</em>
+  <em>Flutter Developer | Data Scientist in the Making | AI & ML Enthusiast | Passionate about solving real-world problems</em>
 </p>
 
 <hr>
@@ -9,17 +9,17 @@
 ### 🌟 About Me
 
 - 🔍 **Who am I?**  
-  I’m an aspiring Data Scientist and AI enthusiast, along with working as a Flutter Developer building mobile applications.
+  I’m a Flutter Developer and aspiring Data Scientist exploring Machine Learning, Deep Learning, and AI solutions.
 
 - 🚀 **My Mission:**  
-  To build impactful tech solutions — from intelligent AI systems to smooth, user-friendly mobile apps.
+  To build impactful mobile apps and intelligent systems that solve real-world challenges.
 
 - 👩‍💻 **Tech Journey:**  
-  Proficient in Python, SQL, C, and C++ with hands-on experience in ML-based applications and Flutter development.  
-  Worked with YOLO, TensorFlow, NumPy, Pandas, Scikit-learn, Matplotlib, Flutter, and Dart.
+  Proficient in Python, SQL, C, C++, and Flutter with hands-on experience in ML-based projects and app development.  
+  Worked with YOLO, TensorFlow, NumPy, Pandas, Scikit-learn, Matplotlib, Flutter & Dart.
 
 - 📈 **Current Focus:**  
-  Statistics, Data Analysis, Generative AI (NLP models), and advanced Flutter concepts.
+  Data Analysis, Statistics, Generative AI (NLP), and advanced Flutter development.
 
 <hr>
 
@@ -53,13 +53,21 @@
 <div align="center">
 
 <img 
-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=akankshacore&show_icons=true&theme=dracula" 
+src="https://github-readme-stats.vercel.app/api?username=akankshacore&show_icons=true&theme=tokyonight&hide_border=true" 
 height="180"/>
 
 <img 
-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=akankshacore&layout=compact&theme=dracula" 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=akankshacore&layout=compact&theme=tokyonight&hide_border=true" 
 height="180"/>
 
+</div>
+
+<hr>
+
+### 🏆 GitHub Trophies (Stable)
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=akankshacore&theme=dracula&no-frame=true"/>
 </div>
 
 <hr>
