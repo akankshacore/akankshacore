@@ -48,30 +48,15 @@
 
 <hr>
 
-### 📊 GitHub Insights
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=akankshacore&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=akankshacore&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=akankshacore&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="center">
+---
+[![](https://visitcount.itsvg.in/api?id=akankshacore&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img 
-src="https://github-readme-stats.vercel.app/api?username=akankshacore&show_icons=true&theme=tokyonight&hide_border=true" 
-height="180"/>
-
-<img 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=akankshacore&layout=compact&theme=tokyonight&hide_border=true" 
-height="180"/>
-
-</div>
-
-<hr>
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=akankshacore&theme=dracula&no-frame=true"/>
-</div>
-
-<hr>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ### 🌐 Let's Connect
 
 <div align="center">
