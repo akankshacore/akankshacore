@@ -64,7 +64,7 @@ height="180"/>
 
 <hr>
 
-### 🏆 GitHub Trophies (Stable)
+### 🏆 GitHub Trophies
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=akankshacore&theme=dracula&no-frame=true"/>
